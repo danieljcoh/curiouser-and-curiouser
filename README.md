@@ -81,7 +81,7 @@
 <p>Over the first two weeks of the project we examined many resources that already had proven to teach CS well. However, we were specifically tasked of making a game that teaches CS that was "Fun". Though our resources were excellent at educating, we felt they lacked entertainment. The next thing for us to do was to discuss with educators what the methods they already use to teach CS were, how they keep their student engaged, and how they assess student learning.</p>
 
 <h3>Teacher Quote</h3>
-<p>"The real struggle is keeping the students engaged. All of the students are very talented and receptive so it's the teachers job to engage with the students. Discover about who they are, what they like, and then bring that back around into the lesson."</p>
+<blockquote>"The real struggle is keeping the students engaged. All of the students are very talented and receptive so it's the teachers job to engage with the students. Discover about who they are, what they like, and then bring that back around into the lesson."</blockquote>
 
 <p>The team and I started visiting schools and conversing with teachers about their needs alongside their students needs. We wanted to know what aspects of the teachers experience we could make easier while maintaining effectiveness. We discovered the most important aspects were...</p>
 <ul>
