@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-<p>CuriouSer was an academic project created over the course of a semester. My team and I were partnered with our Client Alice who is a subsidiary of Carnegie Mellon University. Specializing in Computer Science education, a representative came to us and requested we make a game facilitating CS education within schools though what we decided to teach in our game was entirely up to us. So we started researching…</p>
+<p>CuriouSer was an academic project created over the course of a semester. My team and I were partnered with our Client <a href="http://www.alice.org/">Alice</a> who is a subsidiary of Carnegie Mellon University. Specializing in Computer Science education, a representative came to us and requested we make a game facilitating CS education within schools though what we decided to teach in our game was entirely up to us. So we started researching…</p>
 
 <h2>RESEARCH</h2>
 <table>
@@ -78,15 +78,37 @@
   </tr>
 </table>
 
-<p>Over the first two weeks of the project we examined many different references that already have been proven to teach CS well. However, we were specifically tasked of making a game that teaches CS but also is "Fun". Though our references were excellent at educating, we felt they lacked entertainment. The next thing for us to do was to discuss with teachers the methods they already use to teach CS, how they keep their student engaged, and how they assess student learning.</p>
+<p>Over the first two weeks of the project we examined many resources that already had proven to teach CS well. However, we were specifically tasked of making a game that teaches CS that was "Fun". Though our resources were excellent at educating, we felt they lacked entertainment. The next thing for us to do was to discuss with educators what the methods they already use to teach CS were, how they keep their student engaged, and how they assess student learning.</p>
 
+<h3>Teacher Quote</h3>
 <p>"The real struggle is keeping the students engaged. All of the students are very talented and receptive so it's the teachers job to engage with the students. Discover about who they are, what they like, and then bring that back around into the lesson."</p>
 
-<p>With one other team member, we started visiting schools and conversing with teachers about their needs alongside their students needs. We wanted to know what aspects of the teachers experience we could make easier while maintaining effectiveness. We discovered the most important aspects were...</p>
+<p>The team and I started visiting schools and conversing with teachers about their needs alongside their students needs. We wanted to know what aspects of the teachers experience we could make easier while maintaining effectiveness. We discovered the most important aspects were...</p>
 <ul>
   <li>Engagement</li>
   <li>Knowledge Acquisition</li>
   <li>Assessment</li>
 </ul>
+
+<p>Because of our findings above we determined the next steps would be to decide exactly what we will be teaching in the game. With endless possibilities, where do we even start? We revisited the programs we'd been referencing to see exactly what they were teaching and when within their courses curricula. After revisiting teachers we consolidated our findings...</p>
+
+<table>
+  <td>
+    <ul>
+      <li>Debugging</li>
+      <li>Infrastructure</li>
+      <li>Functions / Methods</li>
+      <li>Variables</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>A little abstract for Middle Schoolers.</li>
+      <li>Excellent to learn early, if possible.</li>
+      <li>Versatile, but hard to master.</li>
+      <li>Useful, but is this the best use of the resource?</li>
+    </ul>
+  </td>
+</table>
   
   
