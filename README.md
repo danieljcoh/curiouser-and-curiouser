@@ -19,6 +19,9 @@
 <ul>
   <li>Unity</li>
   <li>Perforce</li>
+  <li>Logic Pro X</li>
+  <li>Adobe Audition</li>
+  <li>Reaper</li>
 </ul>
 
 <p>Hardware</p>
