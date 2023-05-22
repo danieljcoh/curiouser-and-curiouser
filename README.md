@@ -65,5 +65,19 @@
 <p>CuriouSer was an academic project created over the course of a semester. My team and I were partnered with our Client Alice who is a subsidiary of Carnegie Mellon University. Specializing in Computer Science education, a representative came to us and requested we make a game facilitating CS education within schools though what we decided to teach in our game was entirely up to us. So we started researching…</p>
 
 <h2>RESEARCH</h2>
+<img src="imgs/codedotorg.png" alt="code.org logo" width="200">
+<img src="imgs/Scratchlogo.png" alt="scratch code logo" width="200">
+<img src="imgs/sphero-img.png" alt="sphero educational electronics logo" width="200">
 
+<p>Over the first two weeks of the project we examined many different references that already have been proven to teach CS well. However, we were specifically tasked of making a game that teaches CS but also is "Fun". Though our references were excellent at educating, we felt they lacked entertainment. The next thing for us to do was to discuss with teachers the methods they already use to teach CS, how they keep their student engaged, and how they assess student learning.</p>
+
+<p>"The real struggle is keeping the students engaged. All of the students are very talented and receptive so it's the teachers job to engage with the students. Discover about who they are, what they like, and then bring that back around into the lesson."</p>
+
+<p>With one other team member, we started visiting schools and conversing with teachers about their needs alongside their students needs. We wanted to know what aspects of the teachers experience we could make easier while maintaining effectiveness. We discovered the most important aspects were...</p>
+<ul>
+  <li>Engagement</li>
+  <li>Knowledge Acquisition</li>
+  <li>Assessment</li>
+</ul>
+  
   
