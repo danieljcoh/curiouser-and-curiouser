@@ -69,13 +69,14 @@
   <tr>
     <td><img src="imgs/codedotorg.png" alt="code.org logo"></td>
     <td><img src="imgs/Scratchlogo.png" alt="scratch code logo"></td>
-    <td><img src="imgs/sphero-img.png" alt="sphero educational electronics logo"</td>
+    <td><img src="imgs/sphero-img.png" alt="sphero coding robotics logo"</td>
+  </tr>
+  <tr>
+    <td>Code.org</td>
+    <td>Scratch Code</td>
+    <td>Sphero Coding Robotics</td>
   </tr>
 </table>
-
-<img src="imgs/codedotorg.png" alt="code.org logo">
-<img src="imgs/Scratchlogo.png" alt="scratch code logo" width="200">
-<img src="imgs/sphero-img.png" alt="sphero educational electronics logo" width="200">
 
 <p>Over the first two weeks of the project we examined many different references that already have been proven to teach CS well. However, we were specifically tasked of making a game that teaches CS but also is "Fun". Though our references were excellent at educating, we felt they lacked entertainment. The next thing for us to do was to discuss with teachers the methods they already use to teach CS, how they keep their student engaged, and how they assess student learning.</p>
 
