@@ -118,10 +118,8 @@
     <td>Cons</td>
   </tr>
   <tr>
-    <ul>
-      <li>Students can see their environment and engage with it. Because a lot of classrooms have environmental information, this could be crucial.</li>
-      <li>Believabilty for the student? Suspension of disbelief. </li>
-    </ul>
+    <td>Students can see their environment and engage with it. Because a lot of classrooms have environmental information, this could be crucial.</td>
+    <td>Believabilty for the student? Suspension of disbelief.</td>
   </tr>
 </table>
 
