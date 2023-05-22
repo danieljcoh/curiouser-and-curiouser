@@ -49,4 +49,17 @@
 
 <h2>PROBLEM, GOAL, AND SOLUTION</h2>
 
+<table>
+  <tr>
+    <th>Problem</th>
+    <th>Goal</th>
+    <th>Solution</th>
+  </tr>
+  <tr>
+    <td>Learning CS in middle and high school is not engaging or fun.</td>
+    <td>To create a fun and engaging CS game which educates students on the use of methods and functions.</td>
+    <td>Create a virtual reality CS alien-space cooking game where the primary objective is making pizzas through creating “function” presets.</td>
+  </tr>
+</table>
+
   
