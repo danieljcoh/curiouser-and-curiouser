@@ -28,4 +28,5 @@
 </ul>
 
 <h3>Watch a demonstration!</h3>
+<p>Click the picture below</p>
 <a href="https://www.youtube.com/watch?v=FC9yZjRInf0"><img src="Cosmic-kitchen-screenshot.png" alt="cosmic kitchen picture"></a>
