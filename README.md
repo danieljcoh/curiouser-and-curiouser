@@ -72,9 +72,9 @@
     <td><img src="imgs/sphero-img.png" alt="sphero coding robotics logo"</td>
   </tr>
   <tr>
-    <td>Code.org</td>
-    <td>Scratch Code</td>
-    <td>Sphero Coding Robotics</td>
+    <td align="center">Code.org</td>
+    <td align="center">Scratch Code</td>
+    <td align="center">Sphero Coding Robotics</td>
   </tr>
 </table>
 
