@@ -2,7 +2,7 @@
 
 <p>CuriouSer was a VR educational game for the Google Pixel, where the player works in a fast food pizza restaurant in space. This project’s aim was to create an educational game which teaches introductory computer science concepts for beginners of computer science. The CuriouSer team worked through extensive research and play-testing; pushing the boundaries of Virtual Reality educational experiences. In the game, the player must cook different flavored pizzas in a specified time for Aliens.</p>
 
-<img src="curiouser_poster.jpg" alt="curiouser-logo">
+<img src="imgs/curiouser_poster.jpg" alt="curiouser-logo">
 
 <h2>ROLE: GAME DESIGNER & SOUND DESIGNER</h2>
 <p>Responsibilities</p>
@@ -32,7 +32,7 @@
 
 <h3>Watch a demonstration!</h3>
 <p>Click the picture below</p>
-<a href="https://www.youtube.com/watch?v=FC9yZjRInf0" target="_blank"><img src="Cosmic-kitchen-screenshot.png" alt="cosmic kitchen picture"></a>
+<a href="https://www.youtube.com/watch?v=FC9yZjRInf0" target="_blank"><img src="imgs/Cosmic-kitchen-screenshot.png" alt="cosmic kitchen picture"></a>
 
 <hr>
 
