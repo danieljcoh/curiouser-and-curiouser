@@ -26,3 +26,5 @@
   <li>Google Pixel (XL)</li>
   <li>Google DayDream</li>
 </ul>
+
+<img src="Cosmic-kitchen-screenshot.png" alt="cosmic kitchen picture">
