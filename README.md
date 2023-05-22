@@ -62,4 +62,8 @@
   </tr>
 </table>
 
+<p>CuriouSer was an academic project created over the course of a semester. My team and I were partnered with our Client Alice who is a subsidiary of Carnegie Mellon University. Specializing in Computer Science education, a representative came to us and requested we make a game facilitating CS education within schools though what we decided to teach in our game was entirely up to us. So we started researching…</p>
+
+<h2>RESEARCH</h2>
+
   
