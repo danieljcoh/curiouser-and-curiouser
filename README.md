@@ -95,20 +95,19 @@
 <table>
   <td>
     <ul>
-      <li>Debugging</li>
-      <li>Infrastructure</li>
-      <li>Functions / Methods</li>
-      <li>Variables</li>
-    </ul>
-  </td>
-  <td>
-    <ul>
-      <li>A little abstract for Middle Schoolers.</li>
-      <li>Excellent to learn early, if possible.</li>
-      <li>Versatile, but hard to master.</li>
-      <li>Useful, but is this the best use of the resource?</li>
+      <li>Debugging: A little abstract for Middle Schoolers.</li>
+      <li>Infrastructure: Excellent to learn early, if possible.</li>
+      <li>Functions / Methods: Versatile, but hard to master.</li>
+      <li>Variables: Useful, but is this the best use of the resource?</li>
     </ul>
   </td>
 </table>
+
+<p>After discussing with schools and teachers with our list of options. It was conclusive that teachers saw a lot of value in making a game about functions/methods. We agreed and were excited because we already some ideas for how to make the game educational and fun. But first, we needed a platform.</p>
+
+<h3>PLATFORM RESERACH: Which Platform to design for?</h3>
+<p>At this point the only requirement for the platform was that it was "mobile" and "accessible in the classroom".</p>
+<p>A lot of the schools we were visiting had access to a lot more technology than we originally thought. They had HTC Vive's, Oculus', Google Pixels/Day Dreams, Chrome Books, Ipads, and so much more. We had so many options. However, due to the respect of our client Alice, they insisted that we either choose Augmented Reality or Virtual Reality because Alice's mission was to bring educational CS instruction through VR, primarily. </p>
+
   
   
