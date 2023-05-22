@@ -80,8 +80,6 @@
 
 <p>Over the first two weeks of the project we examined many resources that already had proven to teach CS well. However, we were specifically tasked of making a game that teaches CS that was "Fun". Though our resources were excellent at educating, we felt they lacked entertainment. The next thing for us to do was to discuss with educators what the methods they already use to teach CS were, how they keep their student engaged, and how they assess student learning.</p>
 
-<h3>Teacher Quote</h3>
-<blockquote>"The real struggle is keeping the students engaged. All of the students are very talented and receptive so it's the teachers job to engage with the students. Discover about who they are, what they like, and then bring that back around into the lesson."</blockquote>
 
 <p>The team and I started visiting schools and conversing with teachers about their needs alongside their students needs. We wanted to know what aspects of the teachers experience we could make easier while maintaining effectiveness. We discovered the most important aspects were...</p>
 <ul>
@@ -89,6 +87,8 @@
   <li>Knowledge Acquisition</li>
   <li>Assessment</li>
 </ul>
+
+<blockquote>"The real struggle is keeping the students engaged. All of the students are very talented and receptive so it's the teachers job to engage with the students. Discover about who they are, what they like, and then bring that back around into the lesson."</blockquote>
 
 <p>Because of our findings above we determined the next steps would be to decide exactly what we will be teaching in the game. With endless possibilities, where do we even start? We revisited the programs we'd been referencing to see exactly what they were teaching and when within their courses curricula. After revisiting teachers we consolidated our findings...</p>
 
@@ -107,7 +107,23 @@
 
 <h3>PLATFORM RESERACH: Which Platform to design for?</h3>
 <p>At this point the only requirement for the platform was that it was "mobile" and "accessible in the classroom".</p>
-<p>A lot of the schools we were visiting had access to a lot more technology than we originally thought. They had HTC Vive's, Oculus', Google Pixels/Day Dreams, Chrome Books, Ipads, and so much more. We had so many options. However, due to the respect of our client Alice, they insisted that we either choose Augmented Reality or Virtual Reality because Alice's mission was to bring educational CS instruction through VR, primarily. </p>
+<p>A lot of the schools we were visiting had access to more technology than we originally thought. They had HTC Vive's, Oculus', Google Pixels/Day Dreams, Chrome Books, Ipads, and so much more. We had so many options. However, due to the respect of our client Alice, they insisted that we either choose Augmented Reality or Virtual Reality because Alice's mission was to bring educational CS instruction through VR, primarily.</p>
+
+<h3>Augmented VS Virtual Reality</h3>
+
+<h4>Augmented Reality</h4>
+<table>
+  <tr>
+    <td>PROS</td>
+    <td>Cons</td>
+  </tr>
+  <tr>
+    <ul>
+      <li>Students can see their environment and engage with it. Because a lot of classrooms have environmental information, this could be crucial.</li>
+      <li>Believabilty for the student? Suspension of disbelief. </li>
+    </ul>
+  </tr>
+</table>
 
   
   
