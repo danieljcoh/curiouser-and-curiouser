@@ -65,7 +65,15 @@
 <p>CuriouSer was an academic project created over the course of a semester. My team and I were partnered with our Client Alice who is a subsidiary of Carnegie Mellon University. Specializing in Computer Science education, a representative came to us and requested we make a game facilitating CS education within schools though what we decided to teach in our game was entirely up to us. So we started researching…</p>
 
 <h2>RESEARCH</h2>
-<img src="imgs/codedotorg.png" alt="code.org logo" width="200">
+<table>
+  <tr>
+    <td><img src="imgs/codedotorg.png" alt="code.org logo"></td>
+    <td><img src="imgs/Scratchlogo.png" alt="scratch code logo"></td>
+    <td><img src="imgs/sphero-img.png" alt="sphero educational electronics logo"</td>
+  </tr>
+</table>
+
+<img src="imgs/codedotorg.png" alt="code.org logo">
 <img src="imgs/Scratchlogo.png" alt="scratch code logo" width="200">
 <img src="imgs/sphero-img.png" alt="sphero educational electronics logo" width="200">
 
