@@ -4,7 +4,7 @@
 
 <img src="curiouser_poster.jpg" alt="curiouser-logo" width="500" align="center">
 
-<h2>ROLE: GAME DESIGNER </h2>
+<h2>ROLE: GAME DESIGNER & SOUND DESIGNER</h2>
 <p>Responsibilities</p>
 
 <ul>
@@ -30,3 +30,20 @@
 <h3>Watch a demonstration!</h3>
 <p>Click the picture below</p>
 <a href="https://www.youtube.com/watch?v=FC9yZjRInf0" target="_blank"><img src="Cosmic-kitchen-screenshot.png" alt="cosmic kitchen picture"></a>
+
+<hr>
+
+<h1>FULL PROCESS</h1>
+
+<h2>Contents</h2>
+<ul>
+  <li>Problem, Goal, Solution</li>
+  <li>Research</li>
+  <li>Brainstorming & Concept</li>
+  <li>Cosmic Kitchen Concept</li>
+  <li>The Cook-o-Matic</li>
+</ul>
+
+<h2>PROBLEM, GOAL, AND SOLUTION</h2>
+
+  
