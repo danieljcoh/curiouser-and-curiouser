@@ -27,4 +27,5 @@
   <li>Google DayDream</li>
 </ul>
 
-<img src="Cosmic-kitchen-screenshot.png" alt="cosmic kitchen picture">
+<h3>Watch a demonstration!</h3>
+<a href="https://www.youtube.com/watch?v=FC9yZjRInf0"><img src="Cosmic-kitchen-screenshot.png" alt="cosmic kitchen picture"></a>
